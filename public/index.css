@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Airbnb;
+  src: url("../src/Assets/Fonts/AirbnbCerealBook.ttf");
+}
+html {
+  font-family: Airbnb;
+}
+
+html,
+body {
+  height: 100%;
+  overflow-x: hidden;
+}
+
+#root {
+  height: 100%;
+}

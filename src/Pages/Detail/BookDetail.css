@@ -1,0 +1,49 @@
+.bannerImage .bigCover {
+  object-fit: cover;
+  width: 100%;
+  height: 350px;
+}
+
+.backButton {
+  position: absolute;
+}
+
+.smallBanner {
+  width: 175px;
+  border-radius: 11px;
+  bottom: 175px;
+  position: relative;
+}
+
+.content {
+  margin-left: 10%;
+}
+.flag {
+  background-color: #ffbf49;
+  color: white;
+}
+
+.mainContent {
+  position: absolute;
+  margin-top: 7rem;
+}
+
+.contentText {
+  text-align: justify;
+}
+
+.menu {
+  position: absolute;
+  height: 50px;
+}
+
+.editDelete a {
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.btnBorrow {
+  height: 50px;
+  width: 100%;
+  font-size: 20px;
+}
